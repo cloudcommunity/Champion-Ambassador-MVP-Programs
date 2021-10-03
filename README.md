@@ -5,4 +5,4 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [Microsoft Most Valuable Professional (MVP)](https://mvp.microsoft.com/)
 - [Google Developers Expert (GDE)](https://developers.google.com/community/experts)
 - [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
-- [Docker Captains](https://www.docker.com/community/captains)
+- [Docker Captain](https://www.docker.com/community/captains)
