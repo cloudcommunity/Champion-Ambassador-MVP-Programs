@@ -9,6 +9,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [AWS Hero](https://aws.amazon.com/developer/community/heroes/)
 - [Docker Captain](https://www.docker.com/community/captains)
 - [Databricks Beacon](https://databricks.com/discover/beacons)
+- [Kentico Kontent MVP](https://kontent.ai/mvp-program)
 
 ### For Students
 
