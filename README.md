@@ -10,6 +10,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [Docker Captain](https://www.docker.com/community/captains)
 - [Databricks Beacon](https://databricks.com/discover/beacons)
 - [Kentico Kontent MVP](https://kontent.ai/mvp-program)
+- [StreamYard Ambassador](https://streamyard.com/global/)
 
 ### For Students
 
