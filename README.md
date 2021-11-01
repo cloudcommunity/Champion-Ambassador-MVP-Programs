@@ -12,6 +12,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [Kentico Kontent MVP](https://kontent.ai/mvp-program)
 - [MongoDB Community Champion](https://www.mongodb.com/developer/community-champions/)
 - [StreamYard Ambassador](https://streamyard.com/global/)
+- [Alibaba Cloud Most Valuable Professional (MVP)](https://mvp.alibabacloud.com/)
 
 ### For Students
 
