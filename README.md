@@ -13,6 +13,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [MongoDB Community Champion](https://www.mongodb.com/developer/community-champions/)
 - [StreamYard Ambassador](https://streamyard.com/global/)
 - [Alibaba Cloud Most Valuable Professional (MVP)](https://mvp.alibabacloud.com/)
+- [SOLIDWORKS Champion](https://www.solidworks.com/community/solidworks-champions)
 
 ### For Students
 
