@@ -14,6 +14,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [StreamYard Ambassador](https://streamyard.com/global/)
 - [Alibaba Cloud Most Valuable Professional (MVP)](https://mvp.alibabacloud.com/)
 - [SOLIDWORKS Champion](https://www.solidworks.com/community/solidworks-champions)
+- [Civo Ambassador](https://www.civo.com/ambassadors)
 
 ### For Students
 
