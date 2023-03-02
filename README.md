@@ -15,6 +15,8 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [Alibaba Cloud Most Valuable Professional (MVP)](https://mvp.alibabacloud.com/)
 - [SOLIDWORKS Champion](https://www.solidworks.com/community/solidworks-champions)
 - [Civo Ambassador](https://www.civo.com/ambassadors)
+- [Auth0 Ambassador](https://auth0.com/ambassador-program)
+- [GitKraken Ambassador](https://www.gitkraken.com/ambassador)
 
 ### For Students
 
