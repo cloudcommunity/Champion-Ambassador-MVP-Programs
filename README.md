@@ -17,6 +17,7 @@ Awesome list of technology related champion, ambassador, advocate, most valuable
 - [Civo Ambassador](https://www.civo.com/ambassadors)
 - [Auth0 Ambassador](https://auth0.com/ambassador-program)
 - [GitKraken Ambassador](https://www.gitkraken.com/ambassador)
+- [Arm Ambassador](https://www.arm.com/resources/developer-program/arm-ambassadors)
 
 ### For Students
 
